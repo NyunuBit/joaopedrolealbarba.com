@@ -6,3 +6,7 @@
 	<p class="text-2xl italic text-white/50">joão pedro leal barba.</p>
 	<video src={Video} loop autoplay></video>
 </div>
+<div class="absolute bottom-0 w-full p-2 flex justify-between items-center">
+	<a href="">Source Code</a>
+	<p>by Nyunu</p>
+</div>
