@@ -7,6 +7,10 @@
 	<video src={Video} loop autoplay></video>
 </div>
 <div class="absolute bottom-0 w-full p-2 flex justify-between items-center">
-	<a href="">Source Code</a>
+	<a
+		href="https://github.com/NyunuBit/joaopedrolealbarba.com"
+		class="underline text-purple-500 hover:text-purple-300 font-bold duration-200"
+		>Source Code</a
+	>
 	<p>by Nyunu</p>
 </div>
