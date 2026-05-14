@@ -7,7 +7,7 @@
 	<p class="text-2xl italic text-white/50">
 		joão pedro leal marba (eu escrevi errado).
 	</p>
-	<div class="flex justify-center items-center flex-col lg:flex-row gap-2">
+	<div class="flex justify-center items-center flex-col xl:flex-row gap-2">
 		<div
 			style="background-image: url('{Img}');"
 			class="aspect-square bg-contain md:w-auto w-screen p-5 bg-no-repeat"
